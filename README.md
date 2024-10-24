@@ -1,5 +1,9 @@
-# Small slot web application usig Pixi.js
+# Small slot web application usig Pixi.js and Webpack
+
+## Installation Steps
 
 ```
-npm install
+1 npm install
+2 npm run serve
+3 There you go!
 ```
